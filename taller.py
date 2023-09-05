@@ -1,5 +1,5 @@
 #Moviento caballo
-import.random 
+import random 
 x=y=i=aleatorio=0
 n=10
 x=4
